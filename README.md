@@ -1,4 +1,5 @@
-# 📊 CryptoPulse: Live Cryptocurrency Market Dashboard
+# ![output-onlinegiftools](https://github.com/user-attachments/assets/ebe2f068-5e66-447e-aac2-a1ebbccdb0d8)
+ CryptoPulse: Live Cryptocurrency Market Dashboard
 
 <img width="275" height="183" alt="PhotoshopExtension_Image (1)" src="https://github.com/user-attachments/assets/a718816d-1940-451d-b107-9f0a246afb7e" />
 
